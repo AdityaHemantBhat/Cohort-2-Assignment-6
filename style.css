@@ -645,6 +645,7 @@ body {
   .hero-new-center {
     width: 100%;
     justify-content: flex-start;
+    overflow-x: auto;
   }
   
   .hero-new-bottom {
