@@ -175,7 +175,6 @@ body {
   background-color: #f3f3f6;
   border-radius: 25px;
   padding: 16px 20px;
-  transition: all ease 0.5s;
 }
 
 .search-btn input:hover {
@@ -613,7 +612,10 @@ body {
     padding: 14px 18px;
     font-size: 10px;
   }
-  
+  .search-btn i{
+    top: 4px;
+    right: 5px;
+  }
   .popular h5 {
     font-size: 13px;
   }
