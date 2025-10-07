@@ -279,7 +279,7 @@ body {
 }
 
 .hero-new select {
-  width: 100%;
+  width: 50%;
   border-radius: 8px;
   padding: 10px;
   border: 1px solid #e7e7e9e6;
@@ -290,7 +290,6 @@ body {
   display: flex;
   align-items: center;
   gap: 15px;
-  overflow-x: auto;
   padding: 5px 0;
   flex: 2;
 }
